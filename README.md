@@ -107,7 +107,10 @@ See `outputs/reports/all_datasets_summary.csv` for exact numbers from this run.
 - **Evaluation:** Accuracy, Precision, Recall, F1, ROC-AUC — precision/recall
   are reported because in medical diagnosis, false negatives (missed disease)
   and false positives (unnecessary alarm) matter differently than raw accuracy.
+  
+## 🎓 Internship Information
 
+This project was developed as part of the **CodeAlpha Internship Program**. It focuses on applying machine learning techniques to predict diseases using structured medical datasets while following software engineering best practices for project organization, documentation, and model evaluation.
 ## Disclaimer
 
 This is an educational project, not a medical device. Predictions should never
